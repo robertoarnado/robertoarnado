@@ -1,16 +1,23 @@
-## Hi there 👋
+## Roberto C. Arnado Puma 👋
+<img src="https://komarev.com/ghpvc/?username=robertoarnado&label=visitors&color=0e75b6&style=flat-square" alt="visitors"/>
+  <a href="https://github.com/robertoarnado?tab=followers">
+    <img src="https://img.shields.io/github/followers/robertoarnado?label=Follow&style=social" alt="GitHub followers"/>
+  </a>
+<hr>
+Bachelor of Engineering, assistant at MIDAGRI, focused on data-driven public management, predictive modeling, time-series analysis, and policy evaluation to improve agricultural value chains and public services; passionate artificial intelligence powered solutions for the agricultural sector.
 
-<!--
-**robertoarnado/robertoarnado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  🔭 I’m currently working on data analysis of Regulation on Deforestation-free Products (EUDR).
+  🌱 I’m currently learning data science with python and R, data sets with postgresql/postgis.
 
-Here are some ideas to get you started:
+### Technologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R"/>
+  <img src="https://img.shields.io/badge/Quarto-2D2D2D?logo=quarto&logoColor=white" alt="Quarto"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/PostGIS-4584B6?logo=postgis&logoColor=white" alt="PostGIS"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/n8n-EA4C89?logo=n8n&logoColor=white" alt="n8n"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
