@@ -1,6 +1,6 @@
 ## Roberto C. Arnado Puma 👋<img src="https://komarev.com/ghpvc/?username=robertoarnado&label=visitors&color=0e75b6&style=flat-square" alt="visitors"/> <a href="https://github.com/robertoarnado?tab=followers"> <img src="https://img.shields.io/github/followers/robertoarnado?label=Follow&style=social" alt="GitHub followers"/>
   </a>
-<hr>
+
 Bachelor of Engineering, assistant at MIDAGRI, focused on data-driven public management, predictive modeling, time-series analysis, and policy evaluation to improve agricultural value chains and public services; passionate artificial intelligence powered solutions for the agricultural sector.
 
   🔭 I’m currently working on data analysis of Regulation on Deforestation-free Products (EUDR).
